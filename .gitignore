@@ -1,0 +1,8 @@
+work/
+*.pdb
+*.log
+.vs/
+obj/
+bin/
+dist/
+/WinSelect.exe
